@@ -1,2 +1,5 @@
 print("Hello World")
-#Hello Z
+#Hello 
+
+locals
+print("aa")
